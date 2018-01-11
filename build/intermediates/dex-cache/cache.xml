@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_d610341f37029b065d04a48ae3f73baa1b58278b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_38a33c24109f8bdb912f6e8070c092e0ede7235e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_794f10005a474b95228a0dfb5d40230a3a9b2260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_f68b74fb9ba4f880098e6dd40fb1d50434e4471b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_0178c24878387ee0740873b0d772eea8f7f6fa3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_5e6b28d0ccff515a057488dacb8560c8ef4736ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ef9c6c63005fe93977cdb6d415c62c664eea3d7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_5741edfcfb63ed659d60f33349735b7cd53078ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\CameraDemo-master\cameralibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3286a916865304f0fee14ac312318715386e459">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\CameraDemo-master-cameralibrary-unspecified_f3e494b5dd43f70e6f18b10ef3b40ab2ae27ee51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_d956f58abd70f190593cff60ca1ac0792881fac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_d3a6603e8fd9d7f3c715d8973ba4fececd2c046d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="C:\Users\Administrator\Desktop\linshi\CameraDemo-master\CameraDemo-master\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4_9ea8fb5385fe07db6288a8746eb2660897f432c0.jar" />
+    </item>
+
+</items>
